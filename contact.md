@@ -1,8 +1,8 @@
 ---
 layout: page
 forms:
-  - to: jhvanderschee@gmail.com
-    subject: New submission!
+  - to: kulikov.ilya@gmail.com
+    subject: New submission
     redirect: /
     form_engine: formspree
     placeholders: false
@@ -38,5 +38,3 @@ forms:
 ---
 
 # Contact
-
-kulikov.ilya@gmail.com
